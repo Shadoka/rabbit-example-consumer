@@ -13,3 +13,10 @@ Queues(exchange/routingKey/name):
 * addition.direct/without-reply/addition-no-reply
 
 For details of the format of input and output message [take a look at the relevant structures](data/data.go).
+
+## Build
+
+```sh
+go get
+go build
+```
